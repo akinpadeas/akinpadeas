@@ -12,7 +12,7 @@
 
 <!-- Contact / social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samson_Akinpade-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-akinpade)
-[![Email](https://img.shields.io/badge/Email-akinpadeas%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samsonakinpade@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-samsonakinpade%40yahoo.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samsonakinpade@yahoo.com)
 [![Location](https://img.shields.io/badge/Houston%2C_TX-Open_to_Remote-28a745?style=flat-square&logo=google-maps&logoColor=white)]()
 
 </div>
