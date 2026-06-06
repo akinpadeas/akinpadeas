@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Contact / social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samson_Akinpade-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-akinpadeas%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samson_Akinpade-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-akinpade)
+[![Email](https://img.shields.io/badge/Email-akinpadeas%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samsonakinpade@yahoo.com)
 [![Location](https://img.shields.io/badge/Houston%2C_TX-Open_to_Remote-28a745?style=flat-square&logo=google-maps&logoColor=white)]()
 
 </div>
@@ -134,5 +134,5 @@ Outside the terminal: publications, awards, and judging industry work keep me co
 ---
 
 <div align="center">
-<sub>Open to Senior Data Engineering opportunities · Remote preferred · <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">Let's connect on LinkedIn</a></sub>
+<sub>Open to Senior Data Engineering opportunities · Remote preferred · <a href="https://www.linkedin.com/in/sam-akinpade">Let's connect on LinkedIn</a></sub>
 </div>
